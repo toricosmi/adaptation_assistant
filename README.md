@@ -1,1 +1,1 @@
-# adaptation_assistant
+# Помощник по адаптации
