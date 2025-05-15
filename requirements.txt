@@ -1,0 +1,9 @@
+python-telegram-bot==21.0
+langchain
+langchain-community
+faiss-cpu
+huggingface-hub
+requests
+python-dotenv
+sentence-transformers
+python-dotenv
